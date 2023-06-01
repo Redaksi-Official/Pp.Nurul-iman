@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Dosis:wght@400;500;600&family=Open+Sans:wght@400;500&family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Poppins:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Teko:wght@400;500&family=Viga&display=swap');
+
+
+.Container {
+    font-family: 'Teko';
+}
+
+#NavbarBrand {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.Navul {
+    font-size: 20px;
+}

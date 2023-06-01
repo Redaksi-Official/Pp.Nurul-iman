@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Dosis:wght@400;500;600&family=Open+Sans:wght@400;500&family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Poppins:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Roboto+Flex:wght@500;600&family=Teko:wght@400;500;600;700&family=Viga&display=swap');
+/* <font> */
+
+section {
+  padding: 2rem 0 1rem;
+  background-color: rgba(1,1,3,1);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#NavbarBrand {
+  text-shadow: 1px 1.5px black;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  font-family: "Teko", sans-serif;
+}
+
+.Navul {
+  font-weight: 700;
+}
+
+/*Landing page text */
+.Home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  margin-top: 0.5rem;
+  background-image: url("../assets/nurman.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.Home::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0deg, rgba(1,1,3,1)3%, rgba(255,255,255,0) 25%);
+}
+
+.HomeTitle {
+  text-align: center;
+  color: white;
+  position: relative;
+  text-shadow: 7px 2px 2px rgba(3, 3, 3, 0.74);
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-family: "Viga", sans-serif;
+  letter-spacing: 2.5px;
+  margin-top: -2rem;
+}
+
+.HomeDesc{
+  color: black;
+  text-shadow: 2px 2px 2px rgb(12, 124, 8);
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: "Viga", sans-serif;
+  letter-spacing: 2px;
+
+
+}
+
+
+.DescTitle {
+  font-size: 20px;
+  font-weight: 400;
+  text-shadow: 2px 2px rgba(3, 3, 3, 0.671);
+  letter-spacing: 0.7px;
+  font-family: 'Dosis', sans-serif;
+}
+
+.Sambutan Span {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-weight: 800;
+}
+
+.navbar-toggler {
+  color: var(--bs-white);
+}
+
+
+/*Tentang */
+.About {
+  height: 300vh;
+  font-family: "Teko", sans-serif;
+  color: aliceblue;
+}
+
+.AboutTitle{
+  text-align: center;
+}
+
+.ImagesAbout img {
+  max-width: 400px;
+  border-radius: 20px;
+}
+
+.CardGroup {
+  row-gap: 2;
+}
+
+/* video */
+.VideoTron {
+  text-align: center;
+  font-family: 'Teko',sans-serif;
+}
+
+.VideoTitle{
+  font-size: 20px;
+}
+
+.Video1 {
+  height: 100vh;
+  border-radius: 10px;
+}
+
+
+
+/* contact */
+
+.ContactSec {
+  text-align: center;
+  height: 100vh;
+  font-family: "Teko", sans-serif;
+  color: aliceblue;
+}
+
+.CardText {
+  color: black;
+}
+
+
+
+
+
+
+/* Media screen */
+@media screen and (max-width: 466px) {
+
+  .HomeTitle{
+    font-size: 20px;
+  }
+
+  .HomeTitle2 {
+    display: flex;
+  }
+
+  .HomeDesc{
+    font-size: 16px;
+  }
+
+  .About{
+    height: 300vh;
+  }
+
+  .Video1{
+    height: 80vh;
+  }
+
+}
