@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ponpes.Nuruliman/react-gh-pages/static/css/main.468bf9aa.css",
+    "main.js": "/Ponpes.Nuruliman/react-gh-pages/static/js/main.59578cba.js",
+    "static/media/Video1.mp4": "/Ponpes.Nuruliman/react-gh-pages/static/media/Video1.02d6e10b0f0db3a09407.mp4",
+    "static/media/nurman.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/nurman.9adaaf64a658635ca92a.png",
+    "static/media/SMKbrosur.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/SMKbrosur.2cede04b946374f930ba.png",
+    "static/media/SMPbrosur.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/SMPbrosur.2190f94e6c2846c52173.png",
+    "static/media/Ied.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/Ied.dc4bf59e19d81c0c8516.png",
+    "static/media/Hariguru.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/Hariguru.b5c26abc49fb8ed08f80.png",
+    "static/media/Hero2.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/Hero2.97ec3593fbda9b25a3a5.png",
+    "static/media/Organisasi.png": "/Ponpes.Nuruliman/react-gh-pages/static/media/Organisasi.9154d2197bf86c73de84.png",
+    "index.html": "/Ponpes.Nuruliman/react-gh-pages/index.html",
+    "main.468bf9aa.css.map": "/Ponpes.Nuruliman/react-gh-pages/static/css/main.468bf9aa.css.map",
+    "main.59578cba.js.map": "/Ponpes.Nuruliman/react-gh-pages/static/js/main.59578cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468bf9aa.css",
+    "static/js/main.59578cba.js"
+  ]
+}
